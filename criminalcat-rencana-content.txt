@@ -7,7 +7,7 @@ RENCANA KONTEN CRIMINAL CAT
      ^ React
 - Struktur data dasar
 - PHP Framework
-  ^ Laravel
+      ^ Laravel
 - Interview
 - Vlog
 - Python
