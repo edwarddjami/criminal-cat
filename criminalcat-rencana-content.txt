@@ -3,7 +3,11 @@ RENCANA KONTEN CRIMINAL CAT
 - Video mengenai Javacsript
   * ES6
   * Framework Javascript
+     ^ Vue
+     ^ React
 - Struktur data dasar
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlog
+- Python
